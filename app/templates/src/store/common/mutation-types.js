@@ -1,0 +1,1 @@
+export const SET_PROVINCELIST = 'SET_PROVINCELIST';
